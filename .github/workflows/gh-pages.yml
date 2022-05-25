@@ -73,4 +73,4 @@ jobs:
           # Prevent Jekyll from building the site
           jekyll: false
         env:
-          GITHUB_TOKEN: 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
+          GITHUB_TOKEN: ${{ secrets.G_T }}
