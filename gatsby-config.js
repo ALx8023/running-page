@@ -3,7 +3,7 @@ module.exports = {
   siteMetadata: {
     siteTitle: 'Lo’s Running Page',
     siteUrl: 'https://loruning.vercel.app/',
-    logo: 'https://s1.ax1x.com/2022/05/25/XFfKR1.jpg',
+    logo: 'https://i.postimg.cc/nz5VxDF5/IMG-6203.jpg',
     description: 'Personal site and blog',
     navLinks: [
       {
@@ -12,7 +12,7 @@ module.exports = {
       },
       {
         name: 'About',
-        url: 'https://github.com/yihong0618/running_page/blob/master/README-CN.md',
+        url: 'https://loruning.vercel.app/',
       },
     ],
   },
